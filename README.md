@@ -1,4 +1,3 @@
 ﻿# IA Image Classification
  
-Python Project, using Keras and Tensorflow to determine if the images provided are trees or houses
-
+At the end of the ipynb you can see the results. Python project, uses Keras and Tensorflow to train an IA model that can define if the images provided are trees or houses
